@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 2000,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 2000,
+      "quantity": 600,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "bic",
+      "price": "123",
+      "quantity": "22",
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "dcc",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "dscs",
+      "price": "9000",
+      "quantity": "6222",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
